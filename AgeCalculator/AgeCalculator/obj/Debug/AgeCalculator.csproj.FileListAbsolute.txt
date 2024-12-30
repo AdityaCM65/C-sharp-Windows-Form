@@ -1,0 +1,10 @@
+D:\ADITYACM\CSHARP\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.csprojAssemblyReference.cache
+D:\ADITYACM\CSHARP\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.Form1.resources
+D:\ADITYACM\CSHARP\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.Properties.Resources.resources
+D:\ADITYACM\CSHARP\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.csproj.GenerateResource.cache
+D:\ADITYACM\CSHARP\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.csproj.CoreCompileInputs.cache
+D:\ADITYACM\CSHARP\AgeCalculator\AgeCalculator\bin\Debug\AgeCalculator.exe.config
+D:\ADITYACM\CSHARP\AgeCalculator\AgeCalculator\bin\Debug\AgeCalculator.exe
+D:\ADITYACM\CSHARP\AgeCalculator\AgeCalculator\bin\Debug\AgeCalculator.pdb
+D:\ADITYACM\CSHARP\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.exe
+D:\ADITYACM\CSHARP\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.pdb

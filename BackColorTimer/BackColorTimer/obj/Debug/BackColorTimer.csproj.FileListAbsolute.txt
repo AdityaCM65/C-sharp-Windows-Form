@@ -1,0 +1,10 @@
+D:\ADITYACM\CSHARP\BackColorTimer\BackColorTimer\bin\Debug\BackColorTimer.exe.config
+D:\ADITYACM\CSHARP\BackColorTimer\BackColorTimer\bin\Debug\BackColorTimer.exe
+D:\ADITYACM\CSHARP\BackColorTimer\BackColorTimer\bin\Debug\BackColorTimer.pdb
+D:\ADITYACM\CSHARP\BackColorTimer\BackColorTimer\obj\Debug\BackColorTimer.csprojAssemblyReference.cache
+D:\ADITYACM\CSHARP\BackColorTimer\BackColorTimer\obj\Debug\BackColorTimer.Form1.resources
+D:\ADITYACM\CSHARP\BackColorTimer\BackColorTimer\obj\Debug\BackColorTimer.Properties.Resources.resources
+D:\ADITYACM\CSHARP\BackColorTimer\BackColorTimer\obj\Debug\BackColorTimer.csproj.GenerateResource.cache
+D:\ADITYACM\CSHARP\BackColorTimer\BackColorTimer\obj\Debug\BackColorTimer.csproj.CoreCompileInputs.cache
+D:\ADITYACM\CSHARP\BackColorTimer\BackColorTimer\obj\Debug\BackColorTimer.exe
+D:\ADITYACM\CSHARP\BackColorTimer\BackColorTimer\obj\Debug\BackColorTimer.pdb

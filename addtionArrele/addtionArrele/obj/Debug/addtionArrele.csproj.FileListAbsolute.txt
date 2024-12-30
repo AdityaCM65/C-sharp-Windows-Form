@@ -1,0 +1,7 @@
+D:\ADITYACM\CSHARP\addtionArrele\addtionArrele\bin\Debug\addtionArrele.exe.config
+D:\ADITYACM\CSHARP\addtionArrele\addtionArrele\bin\Debug\addtionArrele.exe
+D:\ADITYACM\CSHARP\addtionArrele\addtionArrele\bin\Debug\addtionArrele.pdb
+D:\ADITYACM\CSHARP\addtionArrele\addtionArrele\obj\Debug\addtionArrele.csprojAssemblyReference.cache
+D:\ADITYACM\CSHARP\addtionArrele\addtionArrele\obj\Debug\addtionArrele.csproj.CoreCompileInputs.cache
+D:\ADITYACM\CSHARP\addtionArrele\addtionArrele\obj\Debug\addtionArrele.exe
+D:\ADITYACM\CSHARP\addtionArrele\addtionArrele\obj\Debug\addtionArrele.pdb
