@@ -1,0 +1,6 @@
+D:\ADITYACM\CSHARP\multipleInherit\multipleInherit\bin\Debug\multipleInherit.exe.config
+D:\ADITYACM\CSHARP\multipleInherit\multipleInherit\bin\Debug\multipleInherit.exe
+D:\ADITYACM\CSHARP\multipleInherit\multipleInherit\bin\Debug\multipleInherit.pdb
+D:\ADITYACM\CSHARP\multipleInherit\multipleInherit\obj\Debug\multipleInherit.csproj.CoreCompileInputs.cache
+D:\ADITYACM\CSHARP\multipleInherit\multipleInherit\obj\Debug\multipleInherit.exe
+D:\ADITYACM\CSHARP\multipleInherit\multipleInherit\obj\Debug\multipleInherit.pdb

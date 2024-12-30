@@ -1,0 +1,10 @@
+D:\ADITYACM\CSHARP\PictureBox\PictureBox\bin\Debug\PictureBox.exe.config
+D:\ADITYACM\CSHARP\PictureBox\PictureBox\bin\Debug\PictureBox.exe
+D:\ADITYACM\CSHARP\PictureBox\PictureBox\bin\Debug\PictureBox.pdb
+D:\ADITYACM\CSHARP\PictureBox\PictureBox\obj\Debug\PictureBox.csprojAssemblyReference.cache
+D:\ADITYACM\CSHARP\PictureBox\PictureBox\obj\Debug\PictureBox.Form1.resources
+D:\ADITYACM\CSHARP\PictureBox\PictureBox\obj\Debug\PictureBox.Properties.Resources.resources
+D:\ADITYACM\CSHARP\PictureBox\PictureBox\obj\Debug\PictureBox.csproj.GenerateResource.cache
+D:\ADITYACM\CSHARP\PictureBox\PictureBox\obj\Debug\PictureBox.csproj.CoreCompileInputs.cache
+D:\ADITYACM\CSHARP\PictureBox\PictureBox\obj\Debug\PictureBox.exe
+D:\ADITYACM\CSHARP\PictureBox\PictureBox\obj\Debug\PictureBox.pdb
