@@ -1,0 +1,7 @@
+D:\ADITYACM\CSHARP\evenNumbers\evenNumbers\bin\Debug\evenNumbers.exe.config
+D:\ADITYACM\CSHARP\evenNumbers\evenNumbers\bin\Debug\evenNumbers.exe
+D:\ADITYACM\CSHARP\evenNumbers\evenNumbers\bin\Debug\evenNumbers.pdb
+D:\ADITYACM\CSHARP\evenNumbers\evenNumbers\obj\Debug\evenNumbers.csprojAssemblyReference.cache
+D:\ADITYACM\CSHARP\evenNumbers\evenNumbers\obj\Debug\evenNumbers.csproj.CoreCompileInputs.cache
+D:\ADITYACM\CSHARP\evenNumbers\evenNumbers\obj\Debug\evenNumbers.exe
+D:\ADITYACM\CSHARP\evenNumbers\evenNumbers\obj\Debug\evenNumbers.pdb

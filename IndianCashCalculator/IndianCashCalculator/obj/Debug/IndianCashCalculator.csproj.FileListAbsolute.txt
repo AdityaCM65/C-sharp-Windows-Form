@@ -1,0 +1,10 @@
+D:\ADITYACM\CSHARP\IndianCashCalculator\IndianCashCalculator\bin\Debug\IndianCashCalculator.exe.config
+D:\ADITYACM\CSHARP\IndianCashCalculator\IndianCashCalculator\bin\Debug\IndianCashCalculator.exe
+D:\ADITYACM\CSHARP\IndianCashCalculator\IndianCashCalculator\bin\Debug\IndianCashCalculator.pdb
+D:\ADITYACM\CSHARP\IndianCashCalculator\IndianCashCalculator\obj\Debug\IndianCashCalculator.csprojAssemblyReference.cache
+D:\ADITYACM\CSHARP\IndianCashCalculator\IndianCashCalculator\obj\Debug\IndianCashCalculator.Form1.resources
+D:\ADITYACM\CSHARP\IndianCashCalculator\IndianCashCalculator\obj\Debug\IndianCashCalculator.Properties.Resources.resources
+D:\ADITYACM\CSHARP\IndianCashCalculator\IndianCashCalculator\obj\Debug\IndianCashCalculator.csproj.GenerateResource.cache
+D:\ADITYACM\CSHARP\IndianCashCalculator\IndianCashCalculator\obj\Debug\IndianCashCalculator.csproj.CoreCompileInputs.cache
+D:\ADITYACM\CSHARP\IndianCashCalculator\IndianCashCalculator\obj\Debug\IndianCashCalculator.exe
+D:\ADITYACM\CSHARP\IndianCashCalculator\IndianCashCalculator\obj\Debug\IndianCashCalculator.pdb

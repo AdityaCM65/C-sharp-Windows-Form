@@ -1,0 +1,12 @@
+D:\ADITYACM\CSHARP\Menustrip\Menustrip\bin\Debug\Menustrip.exe.config
+D:\ADITYACM\CSHARP\Menustrip\Menustrip\bin\Debug\Menustrip.exe
+D:\ADITYACM\CSHARP\Menustrip\Menustrip\bin\Debug\Menustrip.pdb
+D:\ADITYACM\CSHARP\Menustrip\Menustrip\obj\Debug\Menustrip.csprojAssemblyReference.cache
+D:\ADITYACM\CSHARP\Menustrip\Menustrip\obj\Debug\Menustrip.Form1.resources
+D:\ADITYACM\CSHARP\Menustrip\Menustrip\obj\Debug\Menustrip.Properties.Resources.resources
+D:\ADITYACM\CSHARP\Menustrip\Menustrip\obj\Debug\Menustrip.csproj.GenerateResource.cache
+D:\ADITYACM\CSHARP\Menustrip\Menustrip\obj\Debug\Menustrip.csproj.CoreCompileInputs.cache
+D:\ADITYACM\CSHARP\Menustrip\Menustrip\obj\Debug\Menustrip.exe
+D:\ADITYACM\CSHARP\Menustrip\Menustrip\obj\Debug\Menustrip.pdb
+D:\ADITYACM\CSHARP\Menustrip\Menustrip\obj\Debug\Menustrip.Book.resources
+D:\ADITYACM\CSHARP\Menustrip\Menustrip\obj\Debug\Menustrip.Stud.resources

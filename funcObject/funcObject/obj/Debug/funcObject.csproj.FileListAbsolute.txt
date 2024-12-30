@@ -1,0 +1,6 @@
+D:\ADITYACM\CSHARP\funcObject\funcObject\bin\Debug\funcObject.exe.config
+D:\ADITYACM\CSHARP\funcObject\funcObject\bin\Debug\funcObject.exe
+D:\ADITYACM\CSHARP\funcObject\funcObject\bin\Debug\funcObject.pdb
+D:\ADITYACM\CSHARP\funcObject\funcObject\obj\Debug\funcObject.csproj.CoreCompileInputs.cache
+D:\ADITYACM\CSHARP\funcObject\funcObject\obj\Debug\funcObject.exe
+D:\ADITYACM\CSHARP\funcObject\funcObject\obj\Debug\funcObject.pdb
