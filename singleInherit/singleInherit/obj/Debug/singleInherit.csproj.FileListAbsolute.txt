@@ -1,0 +1,6 @@
+D:\ADITYACM\CSHARP\singleInherit\singleInherit\bin\Debug\singleInherit.exe.config
+D:\ADITYACM\CSHARP\singleInherit\singleInherit\bin\Debug\singleInherit.exe
+D:\ADITYACM\CSHARP\singleInherit\singleInherit\bin\Debug\singleInherit.pdb
+D:\ADITYACM\CSHARP\singleInherit\singleInherit\obj\Debug\singleInherit.csproj.CoreCompileInputs.cache
+D:\ADITYACM\CSHARP\singleInherit\singleInherit\obj\Debug\singleInherit.exe
+D:\ADITYACM\CSHARP\singleInherit\singleInherit\obj\Debug\singleInherit.pdb

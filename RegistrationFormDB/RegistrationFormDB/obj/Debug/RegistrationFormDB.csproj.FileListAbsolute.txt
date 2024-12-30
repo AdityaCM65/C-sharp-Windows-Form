@@ -1,0 +1,10 @@
+D:\ADITYACM\CSHARP\RegistrationFormDB\RegistrationFormDB\bin\Debug\RegistrationFormDB.exe.config
+D:\ADITYACM\CSHARP\RegistrationFormDB\RegistrationFormDB\bin\Debug\RegistrationFormDB.exe
+D:\ADITYACM\CSHARP\RegistrationFormDB\RegistrationFormDB\bin\Debug\RegistrationFormDB.pdb
+D:\ADITYACM\CSHARP\RegistrationFormDB\RegistrationFormDB\obj\Debug\RegistrationFormDB.csprojAssemblyReference.cache
+D:\ADITYACM\CSHARP\RegistrationFormDB\RegistrationFormDB\obj\Debug\RegistrationFormDB.Form1.resources
+D:\ADITYACM\CSHARP\RegistrationFormDB\RegistrationFormDB\obj\Debug\RegistrationFormDB.Properties.Resources.resources
+D:\ADITYACM\CSHARP\RegistrationFormDB\RegistrationFormDB\obj\Debug\RegistrationFormDB.csproj.GenerateResource.cache
+D:\ADITYACM\CSHARP\RegistrationFormDB\RegistrationFormDB\obj\Debug\RegistrationFormDB.csproj.CoreCompileInputs.cache
+D:\ADITYACM\CSHARP\RegistrationFormDB\RegistrationFormDB\obj\Debug\RegistrationFormDB.exe
+D:\ADITYACM\CSHARP\RegistrationFormDB\RegistrationFormDB\obj\Debug\RegistrationFormDB.pdb

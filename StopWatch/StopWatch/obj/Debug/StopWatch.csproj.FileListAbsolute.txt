@@ -1,0 +1,9 @@
+D:\ADITYACM\CSHARP\StopWatch\StopWatch\bin\Debug\StopWatch.exe.config
+D:\ADITYACM\CSHARP\StopWatch\StopWatch\bin\Debug\StopWatch.exe
+D:\ADITYACM\CSHARP\StopWatch\StopWatch\bin\Debug\StopWatch.pdb
+D:\ADITYACM\CSHARP\StopWatch\StopWatch\obj\Debug\StopWatch.Form1.resources
+D:\ADITYACM\CSHARP\StopWatch\StopWatch\obj\Debug\StopWatch.Properties.Resources.resources
+D:\ADITYACM\CSHARP\StopWatch\StopWatch\obj\Debug\StopWatch.csproj.GenerateResource.cache
+D:\ADITYACM\CSHARP\StopWatch\StopWatch\obj\Debug\StopWatch.csproj.CoreCompileInputs.cache
+D:\ADITYACM\CSHARP\StopWatch\StopWatch\obj\Debug\StopWatch.exe
+D:\ADITYACM\CSHARP\StopWatch\StopWatch\obj\Debug\StopWatch.pdb
